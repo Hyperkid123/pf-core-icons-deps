@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport Modal from 'library';\n\nconst Home = () => __jsx(\"div\", null, __jsx(Modal, null));\n\nexport default Home;","map":null,"metadata":{},"sourceType":"module"}
