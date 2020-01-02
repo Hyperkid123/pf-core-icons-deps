@@ -41,6 +41,7 @@ Page                    Size
 ```
 
 With the ESM bug
+```
 Compiled successfully.
 
 Automatically optimizing pages  
@@ -52,6 +53,7 @@ Page                    Size
   ├ chunks/commons.js   65.7 kB
   ├ runtime/main.js     5.26 kB
   └ runtime/webpack.js  812 B
+```
 
 
 # How to possibly fix this
